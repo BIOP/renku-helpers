@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="io.github.qupath">
+      <map/>
+      <node name="0.3">
+        <map>
+          <entry key="lastUpdateCheck" value="1662994358619"/>
+          <entry key="maxMemoryMB" value="2048"/>
+          <entry key="qupathSetupValue" value="1"/>
+          <entry key="qupathStylesheet" value="Modena Light"/>
+          <entry key="userPath" value="/home/jovyan/Desktop/QuPath_Common_Data"/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>
