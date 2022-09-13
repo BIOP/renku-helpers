@@ -1,4 +1,4 @@
-def targetStream = new FileInputStream( new File ( "/qupath/qp_prefs.xml" ) )
+def targetStream = new FileInputStream( new File ( "/renku-helpers/qupath/qp_prefs.xml" ) )
 println targetStream
 PathPrefs.importPreferences( targetStream )
 
